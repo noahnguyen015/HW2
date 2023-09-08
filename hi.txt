@@ -1,2 +1,3 @@
 Hi Class
 Hello Class%.%
+Hello
