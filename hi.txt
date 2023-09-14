@@ -1,8 +1,2 @@
 Hi Class
-<<<<<<< HEAD
-Hello Class%.%
-Hello
-=======
-Hello Class%.%
-Hello
->>>>>>> new-feature
+
